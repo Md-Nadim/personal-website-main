@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.top{
+    margin: 1%;
+    text-decoration: none;
+    color: #3C3C3C;
+    font-weight: bold;
+}
+#top-Line{
+    margin-left: 1000px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: dimgray;
+}
+img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.highlight-First{
+    color:#363958;
+}
+.highlight-Second{
+    color:#FC5E51;
+    
+}
+.highlight-Button{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    padding: 7px 25px;
+    border-radius: 10%;
+    background-image: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+}
+.work{
+    text-align: center;
+}
+.img{
+    width: 23%;
+    height: 300px;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+    box-shadow: 4px 7px 7px #888888;
+    border-radius: 20px;
+}
+.four-Section{
+    width: 900px;
+    height: 225px;
+    background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+    border-radius: 30px;
+    margin-top: 250px;
+    margin-left: 225px;
+    margin-bottom: 150px;
+}
+
+.four-work-Inq{
+    color: white;
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-left: 50px;
+}
+#btn{
+    margin-top: 13%;
+    margin-left: 25%;
+}
+.stay{
+    text-align: center;
+    color: #696871;
+}
+.design{
+    text-align: center;
+    color: #363958;
+}
+.icon{
+    width: 3%;
+    float: left;
+    margin-left: 1%;
+    
+}
+#icon-Position{
+    margin-left: 630px;
+    margin-bottom: 80px;
+}
+
